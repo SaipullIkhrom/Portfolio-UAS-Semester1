@@ -249,3 +249,4 @@ gsap.from(".contact-form-container", {
   duration: 1.2,
   ease: "power3.out",
 });
+
